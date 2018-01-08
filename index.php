@@ -1,8 +1,8 @@
 <?php
 
-$nev = 'HGabor';
+$nev = 'Ass Levente';
 $datum = new \DateTime();
 $datumStr = $datum->format('Y-m-d\TH:i:s');
-$szin = '#ff0000';
+$szin = '#ff00ff';
 
 require 'contents.php';
